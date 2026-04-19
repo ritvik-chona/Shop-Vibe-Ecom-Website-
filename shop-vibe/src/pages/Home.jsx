@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { FiArrowRight, FiShoppingBag, FiStar, FiTruck } from 'react-icons/fi'
-import useProducts from '../hooks/UseProducts'
+import useProducts from '../hooks/useProducts'
 import ProductCard from '../components/ProductCard'
 
 const Home = () => {

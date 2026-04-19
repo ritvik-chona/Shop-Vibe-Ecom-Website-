@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import useProducts  from '../hooks/UseProducts'
+import useProducts  from '../hooks/useProducts'
 import useDebounce  from '../hooks/useDebounce'
 import ProductCard  from '../components/ProductCard'
 import SearchBar    from '../components/SearchBar'
