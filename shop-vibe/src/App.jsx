@@ -5,7 +5,7 @@ import Home from './pages/Home'
 import Products from './pages/Products'
 import ProductDetails from './pages/ProductDetails'
 import Cart from './pages/Cart'
-import WishList from './pages/Wishlist'
+import Wishlist from './pages/Wishlist'
 import Checkout from './pages/Checkout'
 
 const App = () => (
